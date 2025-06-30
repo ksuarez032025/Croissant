@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+.croissant-img {
+  margin-bottom: 50px;
+  width: 500px;
+  border-radius: 6px;
+}
+
+.page-links {
+  padding: 25px;
+  color: #9e748c;
+  text-decoration: none;
+}
+
+.page-links:hover {
+  text-decoration: underline;
+}
